@@ -4,6 +4,6 @@ Set of exercises on Deep Learning using Python as part of Udacity - Deep Learnin
 
 This has the folder structure according to the projects.
 
-#First project - Prediction of Bike Riders using Bike rider dataset and Neural network 
+# First project - Prediction of Bike Riders using Bike rider dataset and Neural network 
 
 This can be found in the folder DLND
