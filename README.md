@@ -14,3 +14,15 @@ NN.py is the python file that uses the method(s) "train" and "run" for quicker e
 
 This can be found under the folder "MovieReviewSentimentAnalysis"
 Uses reviews and labels datasets from the session
+
+# SentimentAnalysisTFLearn 
+
+This folder contains the sentiment analysis exercise that was done by TFLearn
+
+# DigitRecognitionTFLearn
+
+This folder contains the code to do digit recognition using TFLearn again/
+
+# Second Project - Image Classification - Convolutional Neural Networks
+
+The folder "ImageClassification-ConvNet" contains the source code and related notebook file / html file for Image classfication using convolutional networks. 
